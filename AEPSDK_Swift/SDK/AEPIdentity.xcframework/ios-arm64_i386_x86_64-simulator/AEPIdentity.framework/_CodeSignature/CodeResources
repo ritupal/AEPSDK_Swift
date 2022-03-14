@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/AEPIdentity.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZT4WUKzx3CGCHct6v0kY8SSzF0o=
+		Q+xpr0Kf0O4Xg0I+RSt3j0L3QGY=
 		</data>
 		<key>Modules/AEPIdentity.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/AEPIdentity.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ZT4WUKzx3CGCHct6v0kY8SSzF0o=
+		Q+xpr0Kf0O4Xg0I+RSt3j0L3QGY=
 		</data>
 		<key>Modules/AEPIdentity.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/AEPIdentity.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Q/tOy4ty4CLFJ46kYjFP2ZoPV28=
+		uv1Lu2cY564TErZ6XERgPSwdfVM=
 		</data>
 		<key>Modules/AEPIdentity.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/AEPIdentity.swiftmodule/i386.swiftmodule</key>
 		<data>
-		Q/tOy4ty4CLFJ46kYjFP2ZoPV28=
+		uv1Lu2cY564TErZ6XERgPSwdfVM=
 		</data>
 		<key>Modules/AEPIdentity.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/AEPIdentity.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+zFIMcknh3WCUvZWQ17E0i7KZQQ=
+		JnrXLQgOBgzJ+lWGZ29BckPE4HM=
 		</data>
 		<key>Modules/AEPIdentity.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Modules/AEPIdentity.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		+zFIMcknh3WCUvZWQ17E0i7KZQQ=
+		JnrXLQgOBgzJ+lWGZ29BckPE4HM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -143,11 +143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZT4WUKzx3CGCHct6v0kY8SSzF0o=
+			Q+xpr0Kf0O4Xg0I+RSt3j0L3QGY=
 			</data>
 			<key>hash2</key>
 			<data>
-			zBueAhobgp+qSHEZttAdsEnkAmLAqjX7nZJOar+JNb4=
+			CMT1fzxhF8yVRGpSQ+Uuj+4rQu6EDGBo5KNdEUpuq0E=
 			</data>
 		</dict>
 		<key>Modules/AEPIdentity.swiftmodule/arm64.swiftdoc</key>
@@ -176,11 +176,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZT4WUKzx3CGCHct6v0kY8SSzF0o=
+			Q+xpr0Kf0O4Xg0I+RSt3j0L3QGY=
 			</data>
 			<key>hash2</key>
 			<data>
-			zBueAhobgp+qSHEZttAdsEnkAmLAqjX7nZJOar+JNb4=
+			CMT1fzxhF8yVRGpSQ+Uuj+4rQu6EDGBo5KNdEUpuq0E=
 			</data>
 		</dict>
 		<key>Modules/AEPIdentity.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -209,11 +209,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Q/tOy4ty4CLFJ46kYjFP2ZoPV28=
+			uv1Lu2cY564TErZ6XERgPSwdfVM=
 			</data>
 			<key>hash2</key>
 			<data>
-			DRaYy53nnGR/gk1+OFzOGO5pbDdeLw4IdWJbKF5C78Q=
+			Q646hs6Z3JZN9w+4CI916jLJjK6stUdd4oifMMHNb5g=
 			</data>
 		</dict>
 		<key>Modules/AEPIdentity.swiftmodule/i386.swiftdoc</key>
@@ -242,11 +242,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Q/tOy4ty4CLFJ46kYjFP2ZoPV28=
+			uv1Lu2cY564TErZ6XERgPSwdfVM=
 			</data>
 			<key>hash2</key>
 			<data>
-			DRaYy53nnGR/gk1+OFzOGO5pbDdeLw4IdWJbKF5C78Q=
+			Q646hs6Z3JZN9w+4CI916jLJjK6stUdd4oifMMHNb5g=
 			</data>
 		</dict>
 		<key>Modules/AEPIdentity.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -275,11 +275,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+zFIMcknh3WCUvZWQ17E0i7KZQQ=
+			JnrXLQgOBgzJ+lWGZ29BckPE4HM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q01z9ZepQLtBjUi1zUVuubhf3c34CLMaLBcjrZ/2CsM=
+			GH/Oy4p03aVHQ3EYwiph0VVyIy3awMnDodiBdN4+Zgk=
 			</data>
 		</dict>
 		<key>Modules/AEPIdentity.swiftmodule/x86_64.swiftdoc</key>
@@ -308,11 +308,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+zFIMcknh3WCUvZWQ17E0i7KZQQ=
+			JnrXLQgOBgzJ+lWGZ29BckPE4HM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q01z9ZepQLtBjUi1zUVuubhf3c34CLMaLBcjrZ/2CsM=
+			GH/Oy4p03aVHQ3EYwiph0VVyIy3awMnDodiBdN4+Zgk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

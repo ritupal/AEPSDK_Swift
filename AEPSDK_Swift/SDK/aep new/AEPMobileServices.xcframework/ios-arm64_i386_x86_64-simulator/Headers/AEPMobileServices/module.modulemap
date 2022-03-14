@@ -1,4 +1,0 @@
-module AEPMobileServices {
-    umbrella "."
-    export *
-}
